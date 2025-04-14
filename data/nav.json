@@ -1,0 +1,15 @@
+[
+  { "name": "Home", "url": "index.php" },
+  {
+    "name": "Brand",
+    "submenu": [
+      { "name": "Nike", "url": "products.php?brand=Nike" },
+      { "name": "Adidas", "url": "products.php?brand=Adidas" },
+      { "name": "Asics", "url": "products.php?brand=Asics" },
+      { "name": "New Balance", "url": "products.php?brand=New+Balance" },
+      { "name": "Under Armour", "url": "products.php?brand=Under+Armour" },
+      { "name": "MLB", "url": "products.php?brand=MLB" }
+    ]
+  },
+  { "name": "Contact", "url": "contact.php" }
+]
